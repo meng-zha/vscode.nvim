@@ -335,7 +335,7 @@ theme.set_highlights = function(opts)
     hl(0, 'goSingleDecl', { fg = c.vscLightBlue, bg = 'NONE' })
 
     -- Python
-    hl(0, 'pythonStatement', { fg = c.vscBlue, bg = 'NONE' })
+    hl(0, 'pythonStatement', { fg = c.vscRed, bg = 'NONE' })
     hl(0, 'pythonOperator', { fg = c.vscBlue, bg = 'NONE' })
     hl(0, 'pythonException', { fg = c.vscPink, bg = 'NONE' })
     hl(0, 'pythonExClass', { fg = c.vscBlueGreen, bg = 'NONE' })
